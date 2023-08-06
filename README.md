@@ -1,0 +1,2 @@
+# XunFeiCompetition-ChatGPTGeneratedTextDetection
+ChatGPT生成文本检测器
